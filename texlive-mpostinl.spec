@@ -1,6 +1,6 @@
 Name:		texlive-mpostinl
 Version:	49559
-Release:	1
+Release:	2
 Summary:	Embed MetaPost figures within LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mpostinl
