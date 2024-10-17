@@ -3,7 +3,7 @@ Version:	49559
 Release:	2
 Summary:	Embed MetaPost figures within LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mpostinl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mpostinl
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mpostinl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mpostinl.doc.r%{version}.tar.xz
